@@ -1,0 +1,14 @@
+{
+  "name": "agentes-ia-indusconsulting",
+  "version": "1.0.0",
+  "description": "Landing page para servicios de Agentes IA - Indusconsulting",
+  "main": "index.html",
+  "scripts": {
+    "serve": "npx http-server . -p 3000 -o",
+    "deploy": "netlify deploy --prod",
+    "preview": "netlify deploy"
+  },
+  "keywords": ["landing", "ai", "agents", "automation", "indusconsulting"],
+  "author": "Indusconsulting",
+  "license": "MIT"
+}
